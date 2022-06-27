@@ -1,0 +1,19 @@
+{
+    "name": "water-management",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+      "start": "node main.js",
+      "test": "mocha"
+    },
+    "dependencies": {
+      "mocha": "^6.2.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/jeevithajr/water-management.git"
+    },
+    "author": "jeevitha"
+  }
+  
